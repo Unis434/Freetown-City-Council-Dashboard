@@ -274,6 +274,7 @@ The above copyright notice and this permission notice shall be included in all c
 <tbody>
 <?php
 $count=1;
+	
 
 while($row = mysqli_fetch_array($result)) { ?>
 <tr><td><?php echo $count; ?></td>
