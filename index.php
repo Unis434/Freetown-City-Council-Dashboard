@@ -23,10 +23,10 @@
 =========================================================
 
  Product Page: https://www.creative-tim.com/product/paper-dashboard-2
- Copyright 2019 Creative Tim (https://www.creative-tim.com)
+ Copyright 2022 Creative Unis (https://www.creative-unis.com)
  Licensed under MIT (https://github.com/creativetimofficial/paper-dashboard/blob/master/LICENSE)
 
- Coded by Creative Tim
+ Coded by Creative Unis.
 
 =========================================================
 
