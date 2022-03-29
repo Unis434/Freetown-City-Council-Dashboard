@@ -8,6 +8,7 @@ $db = mysqli_connect('localhost', 'vitafoam_tolu', 'tolayo', 'vitafoam_mydb');
 	$email    = "";
 	$errors   = array(); 
 
+
 	// call the register() function if register_btn is clicked
 	if (isset($_POST['register_btn'])) {
 		register();
